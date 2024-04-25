@@ -7,5 +7,5 @@ Operacije (+,-,*,/) sa pozitivnim decimalnim brojevima – Passed
 Operacije (+,-,*,/) sa negativnim decimalnim brojevima – Failed (Nemoguce odraditi operacije ako je negativan broj nije prvi broj,  jer dva znaka ne mogu biti jednog do drugog.)
 
 Preporuke:
-Dodavanje upotrebe zagrada u izrazu. (Pomaze oko prioriteta racunjanja naprimer ako hocemo da izracunamo izraz: (4+9) * (5-2) zato sto rezultat tog izraza i izraza 4+9*5-2.
+Dodavanje upotrebe zagrada u izrazu. (Pomaze oko prioriteta racunjanja naprimer ako hocemo da izracunamo izraz: (4+9) * (5-2) zato sto rezultat tog izraza i izraza 4+9*5-2 razliciti.
 Kada je u pitanju deljenje sa nulom koji dobije rezulat “Infinity” sto je netacno , trebalo bi da se ispise izraz: “Can’t divide with zero” 
